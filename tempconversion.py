@@ -1,4 +1,5 @@
-#coversion of 
+#coversion of temperature
+
 unit = input("Is this temperature Celcius or fahrenhit?")
 temp = float(input("Enter the temperature:"))
 if unit == "Celcius":
